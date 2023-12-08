@@ -1,0 +1,24 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+.users{
+    margin: 20px;
+    width: 1000px;
+}
+.add-user{
+    margin: 20px;
+    padding: 10px;
+    
+
+}
+.add-user input{
+    margin: 10px;
+}
+.display-user{
+    border: 3px dotted green;
+}
+.delete-all{
+    margin-top: 30px;
+
+}
